@@ -1,0 +1,41 @@
+p {
+  font-family: Futura,Arial;
+  font-weight: 100;
+  font-size: 50px;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+
+
+.List {
+  display: block;
+  width: 50%;
+  height: 40%;
+  margin-top: 15px;
+  margin-left: 18%;
+}
+
+
+
+.Intro {
+  display: block;
+  width: 50%;
+  height: 40%;
+  margin-top: 100px;
+  margin-left: 18%;
+}
+
+body {
+  background-image: url('https://wallpaperaccess.com/full/1261265.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
